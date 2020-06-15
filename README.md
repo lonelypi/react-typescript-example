@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# react-typescript-example
+# react-typescript-example - Course of Typescript by Stephen Grider
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
